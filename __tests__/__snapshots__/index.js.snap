@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`endpoint 1`] = `
+Array [
+  Object {
+    "completed": true,
+    "text": "Learn React Native 🚀",
+  },
+  Object {
+    "completed": true,
+    "text": "Load data asynchronously ⏲",
+  },
+  Object {
+    "completed": true,
+    "text": "Enjoy the React paradigm 🤙",
+  },
+  Object {
+    "completed": false,
+    "text": "Learn Redux tradeoffs ⚛",
+  },
+  Object {
+    "completed": false,
+    "text": "Make the app beautiful 🎨",
+  },
+  Object {
+    "completed": false,
+    "text": "Bridge native code with JavaScript 📲",
+  },
+  Object {
+    "completed": false,
+    "text": "Become a GraphQL hero ️️⚡",
+  },
+]
+`;
